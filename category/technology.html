@@ -1,0 +1,15 @@
+---
+layout: index
+title: "Technology - Max Base"
+permalink: /technology/
+---
+
+<h2>Technology Posts</h2>
+<ul class="posts posts-main">
+		{% for post in site.categories["technology"] %}
+        {% if post.private %}
+        {% else %}
+        {% include post-item-short.html %}
+        {% endif %}
+		{% endfor %}
+		</ul>
