@@ -1,0 +1,62 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+<!-- {{ page.lang | default: site.lang | default: 'en' }} -->
+	<head>
+		<title>{{ page.title }}</title>
+		<!-- {{ site.baseurl }} -->
+		<!-- {{ site.url }} -->
+		<!-- {{ page.url }} -->
+		{% if page.external_url %}
+		<link rel="canonical" href="{{ page.external_url }}">
+		{% else %}
+			{% if page.blogCanonical %}
+			<link rel="canonical" href="{{ site.url }}/{{ page.blogCanonical }}">
+			{% else %}
+			<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+			{% endif %}
+		{% endif %}
+		{% if page.noindex %}
+		<meta name="robots" content="noindex, nofollow">
+		{% else %}
+			{% if page.private %}
+				{% if page.index %}
+				{% else %}
+				<meta name="robots" content="noindex, nofollow">
+				{% endif %}
+			{% endif %}
+		{% endif %}
+		<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
+		<link rel="stylesheet" href="{{ site.url }}/assets/css/icon.css">
+		<!--[if lt IE 8]><!-->
+		<link rel="stylesheet" href="{{ site.url }}/assets/ie7/ie7.css">
+		<!--<![endif]-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="icon" href="{{ site.url }}/assets/image/favicon.ico">
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134042147-1"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-134042147-1');
+		</script>
+		<script data-ad-client="ca-pub-7167798110775783" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	</head>
+	<body>
+		{{ content }}
+		<div class="clear"></div>
+		<br>
+		<center>
+			Powered by <b><a href="https://maxbase.org/">Max Base</a></b>
+			<br>
+			<a href="https://www.github.com/BaseMax">@BaseMax</a> at GitHub (Max Base)
+			<br>
+			MaxBaseCode [@] Gmail {.DOT.} com
+			<br>
+			MaxBase.Org
+		</center>
+		<br>
+	</body>
+</html>
