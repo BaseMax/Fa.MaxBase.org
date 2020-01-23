@@ -1,2 +1,5 @@
 # FA.MaxBase.org
-My Blog
+
+A repository for my Main website.
+
+See website at here.
