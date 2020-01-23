@@ -1,7 +1,7 @@
 # languages: ["en", "fa"]
-lang: en
-url: https://maxbase.org
-languages: ["en", "fa"]
+lang: fa
+url: https://fa.maxbase.org
+languages: ["fa", "en"]
 permalink: /:categories/:title/
 # - /:year/:month/:day/:categories/:title/
 # permalink: "/:categories/:title/"
