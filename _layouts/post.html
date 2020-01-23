@@ -1,14 +1,9 @@
 ---
 layout: default
 permalink: /:categories/:year/:month/:day/:title:output_ext
-lang: en
 ---
 <main>
-		{% if page.lang == "fa" %}
 		<div class="float-rtl">
-		{% else %}
-		<div class="float-ltr">
-		{% endif %}
 				<h1 class="post-single-title">{{ page.title }}</h1>
 
 				<div class="post-single-subtitle">
@@ -17,11 +12,7 @@ lang: en
 					☕
 					{% assign words = page.content | number_of_words %}
 					{% if words < 360 %}1{% else %}{{ words | divided_by:180 }}{% endif %}
-					{% if page.lang == "fa" %}
 					دقیقه مطالعه
-					{% else %}
-					min read
-					{% endif %}
 					</span>
 					<span class="post-single-line-through"></span>
 				</div>
@@ -47,29 +38,19 @@ lang: en
 
 				<div class="post-single-meta">
 					<div class="post-single-date-author">
-						{% if page.lang == "fa" %}
 						منتشر شده در
 						{% else %}
 						Published
-						{% endif %}
 						<label>{{ page.date | date_to_string }}</label>
 						&nbsp;
 						-
 						&nbsp;
-						{% if page.lang == "fa" %}
 						نویسنده: <label><a href="https://maxbase.org/">مکس بیس</label>
-						{% else %}
-						Written by: <label><a href="https://maxbase.org/">Max Base</label>
-						{% endif %}
 					</div>
 					<div class="post-single-comments">
 						<span class="ti-twitter-alt"></span>
 						<a class="link-underlined" href="https://mobile.twitter.com/search?q={{ site.url }}{{ post.url }}" target="_blank" rel="noopener noreferrer">
-							{% if page.lang == "fa" %}
 							گفتگو در مورد این مقاله در تویتر
-							{% else %}
-							Discuss this article on Twitter
-							{% endif %}
 						</a>
 					</div>
 				</div>
@@ -80,11 +61,7 @@ lang: en
 					{% if post.lang == page.lang %}
 						{% if next %}
 							<br>
-							{% if page.lang == "fa" %}
 							<a href="{{ post.url }}">مشاهده مطلب بعدی</a>
-							{% else %}
-							<a href="{{ post.url }}">Read Next post</a>
-							{% endif %}
 							{% break %}
 						{% endif %}
 						{% assign next = false %}
@@ -121,11 +98,7 @@ lang: en
 			<br>
 
 			<div id="related">
-				{% if page.lang == "fa" %}
 				<h5 class="float-rtl">مطالب مرتبط</h5>
-				{% else %}
-				<h5>Related Posts</h5>
-				{% endif %}
 				<ul class="posts posts-main">
 					{% for post in site.related_posts limit:15 %}
 					{% if post.private %}
