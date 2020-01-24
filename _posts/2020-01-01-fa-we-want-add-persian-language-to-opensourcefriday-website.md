@@ -9,8 +9,6 @@ author: Max
 categories: github
 description: سال 2020 مبارک با خبری خوب از من, ما در حال اضافه کردن زبان فارسی به این وب سایت هستیم.
 tags: github opensourcefriday persian translate
-private: true
-index: true
 ---
 
 با سلام,

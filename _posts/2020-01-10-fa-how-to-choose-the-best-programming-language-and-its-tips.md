@@ -16,8 +16,6 @@ subtitles:
     slug: "what-is-the-best-programming-language"
   - name: "بهترین زبان برنامه نویسی از نظر متخصصین"
     slug: "what-is-comment-of-experts-from-best-programming-language"
-private: true
-index: true
 ---
 
 سلام.
