@@ -2,7 +2,7 @@
 layout: post
 title: روش انتخاب بهترین زبان برنامه نویسی و نکاتی پیرامون آن
 date: 2020-01-10
-permalink: /programming/how-to-choose-the-best-programming-language-and-its-tips-fa/
+permalink: /programming/how-to-choose-the-best-programming-language-and-its-tips/
 lang: fa
 lang-ref: "How to choose the best programming language and its tips"
 author: Max

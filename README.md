@@ -12,7 +12,7 @@ See website at [here](https://fa.maxbase.org/).
 
 Based on [MoloxBlogTheme](https://github.com/BaseMax/MoloxBlogTheme), [Jekyll](https://github.com/jekyll/jekyll).
 
-Based on [MaxBase.org](https://github.com/BaseMax/MaxBase.org), [Max Base - English version](https://maxbase.org/)
+Based on [MaxBase.org](https://github.com/BaseMax/MaxBase.org), [Max Base - English version](https://fa.maxbase.org/)
 
 ---------
 

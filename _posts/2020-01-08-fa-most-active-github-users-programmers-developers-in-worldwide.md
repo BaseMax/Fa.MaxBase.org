@@ -2,7 +2,7 @@
 layout: post
 title: فعال ترین کاربران و برنامه نویسان GitHub در سراسر جهان
 date: 2020-01-08
-permalink: /github/most-active-github-users-programmers-developers-in-worldwide-2020-fa/
+permalink: /github/most-active-github-users-programmers-developers-in-worldwide-2020/
 lang: fa
 lang-ref: "Most active GitHub users in Worldwide 2020"
 redirect_from:
@@ -46,7 +46,7 @@ A list of the most active GitHub users
 
 <!--more-->
 
-جالب بود که خودم را در لیست زیر به عنوان (28 امین برنامه نویس فعال سراسر دنیا](https://maxbase.org/github/best-programmer-and-user-open-source-in-github-2020-fa/) دیدم.
+جالب بود که خودم را در لیست زیر به عنوان (28 امین برنامه نویس فعال سراسر دنیا](https://fa.maxbase.org/github/best-programmer-and-user-open-source-in-github-2020/) دیدم.
 
 <table class="users-list">
             <tbody><tr>

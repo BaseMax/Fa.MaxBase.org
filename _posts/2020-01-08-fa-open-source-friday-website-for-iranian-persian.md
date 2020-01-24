@@ -2,7 +2,7 @@
 layout: post
 title: کمپین جمعه اپن سورس برای ایرانیان با زبان فارسی
 date: 2020-01-08
-permalink: /github/open-source-friday-website-for-iranian-persian-fa/
+permalink: /github/open-source-friday-website-for-iranian-persian/
 lang: fa
 lang-ref: "Open Source Friday for Iranians"
 author: Max
@@ -22,7 +22,7 @@ subtitles:
 
 سلام.
 
-همانطور که در مطلب [جمعه منبع آزاد - زبان فارسی](https://maxbase.org/github/open-source-friday-persian-fa/) و [ما می خواهیم زبان فارسی را به وب سایت OpenSourceFriday اضافه کنیم](https://maxbase.org/github/we-want-add-persian-language-to-opensourcefriday-website-fa/) گفته بودم اکنون شما می توانید فعالیت های منبع آزاد و اوپن سورسی که در روز های جمعه انجام داده اید را مدیریت و مشاهده کنید.
+همانطور که در مطلب [جمعه منبع آزاد - زبان فارسی](https://fa.maxbase.org/github/open-source-friday-persian/) و [ما می خواهیم زبان فارسی را به وب سایت OpenSourceFriday اضافه کنیم](https://fa.maxbase.org/github/we-want-add-persian-language-to-opensourcefriday-website/) گفته بودم اکنون شما می توانید فعالیت های منبع آزاد و اوپن سورسی که در روز های جمعه انجام داده اید را مدیریت و مشاهده کنید.
 
 
 جمعه منبع باز یا به عبارتی open source friday دنبال کننده هدف آزادی نرم افزار هاست و هدف از کمپین جمعه های اوپن سورس این است که سعی کنید در آخر هفته های خود یا در زمان هایی که مقداری فرصت دارید تلاش کنید تا نرم افزار هایی که به آنها وابسته هستید را توسعه دهید.

@@ -2,7 +2,7 @@
 layout: post
 title:  چگونه از یک کاربر معمولی گیت هاب به رتبه جهانی رسیدم
 date: 2020-01-09
-permalink: /github/best-programmer-and-user-open-source-in-github-2020-fa/
+permalink: /github/best-programmer-and-user-open-source-in-github-2020/
 lang: fa
 lang-ref: "Best programmer and user in github at 2020"
 author: Max
@@ -18,7 +18,7 @@ subtitles:
 
 از پروژه ها و فعالیت های اپن سورس و منبع بازی که داخل [گیت هاب](https://github.com/) دارید چه خبر؟
 
-امروز جایزه ای بابت کمک هایی که به جامعه منبع باز و اپن سورس کردم از آمریکا برایم فرستادند و آنرا دریافت کردم. (قبل تر در [این مطلب](https://maxbase.org/github/most-active-github-users-programmers-developers-in-worldwide-2020-fa/) کامل تر توضیح داده شده است)
+امروز جایزه ای بابت کمک هایی که به جامعه منبع باز و اپن سورس کردم از آمریکا برایم فرستادند و آنرا دریافت کردم. (قبل تر در [این مطلب](https://fa.maxbase.org/github/most-active-github-users-programmers-developers-in-worldwide-2020/) کامل تر توضیح داده شده است)
 
 و متوجه شدم که در لیست برترین کاربران جامعه برنامه نویسان دنیا یعنی گیت هاب قرار گرفته ام.
 
