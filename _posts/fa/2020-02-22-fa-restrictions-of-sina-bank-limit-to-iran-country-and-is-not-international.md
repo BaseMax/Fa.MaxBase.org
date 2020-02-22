@@ -29,4 +29,20 @@ tags: bank iran iran-bank sinabank sina-bank international
 
 با اینحال محدودیت هایی که بانک سینا برای مشتریان خود اعمال کرده است خوش آیند نیست ونمی تواند به نفع بانک سینا باشد.
 
+لینک وب سایت بانک سینا:
+
+- https://www.sina24h.com/
+- https://www.sinabank.ir/
+
+بانک مستندات:
+
+- https://bgpview.io/ip/91.217.64.61
+- https://bgpview.io/prefix/91.217.64.0/23#routing
+- https://bgpview.io/asn/6736#upstreams-v4
+
+مشخصات و ایمیل بانک:
+
+EMAIL CONTACTS:
+sdelgoshad@sinabank.ir
+
 با تشکر
