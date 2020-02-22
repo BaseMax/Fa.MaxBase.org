@@ -47,13 +47,13 @@ sdelgoshad@sinabank.ir
 
 پینگ وب سایت در داخل کشور:
 
-###### [max@base ~]$ ping sina24h.com
+###### [max.base ~]$ ping sina24h.com
 
 ```
 PING sina24h.com (91.217.64.61) 56(84) bytes of data.
 ```
 
-###### [max@base ~]$ ping sinabank.ir
+###### [max.base ~]$ ping sinabank.ir
 
 ````
 PING sinabank.ir (91.98.96.10) 56(84) bytes of data.
