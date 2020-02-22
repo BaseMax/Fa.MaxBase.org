@@ -1,6 +1,6 @@
 ---
 layout: post
-title: سیاست های جدید بانک سینا: محدودیت به ایران و عدم تمایل به خارج از کشور
+title: "سیاست های جدید بانک سینا: محدودیت به ایران و عدم تمایل به خارج از کشور"
 date: 2020-02-22
 permalink: /technology/restrictions-of-sina-bank-limit-to-iran-country-and-is-not-international/
 lang: fa
