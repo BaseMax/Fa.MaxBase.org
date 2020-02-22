@@ -6,7 +6,7 @@ permalink: /technology/restrictions-of-sina-bank-limit-to-iran-country-and-is-no
 lang: fa
 author: Max
 categories: technology
-description: بعد از گذشت مدت ها استفاده و همکاری با بانک سینا برای انجام معاملات امروز بانک سینا تغییراتی را در سیاست و سیستم های خود داده است و هم اکنون بانک سینا فقط در داخل کشور و برای ایرانیان در دسترس است.
+description: "بعد از گذشت مدت ها استفاده و همکاری با بانک سینا برای انجام معاملات امروز بانک سینا تغییراتی را در سیاست و سیستم های خود داده است و هم اکنون بانک سینا فقط در داخل کشور و برای ایرانیان در دسترس است."
 tags: bank iran iran-bank sinabank sina-bank international
 ---
 
