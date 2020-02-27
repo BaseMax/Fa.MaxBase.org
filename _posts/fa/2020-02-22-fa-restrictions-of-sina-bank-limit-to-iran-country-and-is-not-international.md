@@ -59,4 +59,6 @@ PING sina24h.com (91.217.64.61) 56(84) bytes of data.
 PING sinabank.ir (91.98.96.10) 56(84) bytes of data.
 ```
 
+برای ادامه این موضوع می توانید به [مطلب بعدی](https://fa.maxbase.org/technology/restrictions-of-sina-bank-allow-to-other-country-and-it-is-international-available/) مراجعه کنید.
+
 با تشکر
