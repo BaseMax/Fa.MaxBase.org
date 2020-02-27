@@ -1,0 +1,19 @@
+---
+layout: post
+title: "بانک سینا برای خارج از ایران در سطح بین الملل مجدد در دسترس قرار گرفت"
+date: 2020-02-26
+permalink: /technology/restrictions-of-sina-bank-allow-to-other-country-and-it-is-international-available/
+lang: fa
+author: Max
+categories: technology
+description: "خوشبختانه بانک سینا مجدد در دسترس کشور های خارج از ایران و بین الملل قرار گرفت. هم اکنون می توانید از بانک سینا مجدد مانند قبل از خارج از کشور نیز دسترسی داشته باشید و از خدمات و پنل های آن استفاده کنید."
+tags: bank iran iran-bank sinabank sina-bank international
+---
+
+سلام.
+
+پیروی [مطلب قبلی](https://fa.maxbase.org/technology/restrictions-of-sina-bank-limit-to-iran-country-and-is-not-international/) و محدود شدن بانک سینا برای خارج از ایران و با توجه به پیگیری تیم پشتیبانی ما در مورد مشکل بانک سینا و دو مرتبه تماس گرفتن با واحد پشتیبانی بانک سینا که شماره تلفن واحد پشتیبانی بانک سینا 02141731 است که البته بنظر می رسد که 24 ساعته در دسترس هم هستند.
+
+خوشبختانه بعد از گذشت مدتی بانک مجدد در سطح بین المللی و برای بقیه کشور ها نیز در دسترس قرار گرفت.
+
+با تشکر
