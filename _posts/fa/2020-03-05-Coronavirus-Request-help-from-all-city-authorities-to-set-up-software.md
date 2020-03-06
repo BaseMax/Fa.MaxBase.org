@@ -6,7 +6,7 @@ permalink: /technology/coronavirus-request-help-from-all-city-authorities-to-set
 lang: fa
 author: Max
 categories: technology
-description: ""
+description: "از تمامی مسئولین شهر و افراد روشن فکر و بافکر درخواست کمک می کنم تا یاری کنید تا بتوانیم یک زیرساخت نرم افزاری برای کاهش شیوع ویروس کرونا پیاده کنیم."
 tags: corona virus covid19 international
 ---
 
