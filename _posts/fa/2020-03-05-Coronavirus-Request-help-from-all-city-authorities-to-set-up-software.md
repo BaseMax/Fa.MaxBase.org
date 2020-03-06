@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "بانک سینا برای خارج از ایران در سطح بین الملل مجدد در دسترس قرار گرفت"
+title: "درخواست حمایت و کمک از مسئولین شهر برای مقابله با کرونا ویروس"
 date: 2020-03-05
 permalink: /technology/coronavirus-request-help-from-all-city-authorities-to-set-up-software/
 lang: fa
