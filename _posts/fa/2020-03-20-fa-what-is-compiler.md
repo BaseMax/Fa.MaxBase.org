@@ -62,14 +62,18 @@ cout << sum << endl;
 
 معرفی محیط های برنامه نویسی:
 
-— Code::blocks (Windows/Linux/MacOS)
-— Visual Studio Express (Windows)
-— Dev-C++ (Windows)
+- Code::blocks (Windows/Linux/MacOS)
+- Visual Studio Express (Windows)
+- Dev-C++ (Windows)
 
 معرفی دو کامپایلر مناسب برای کار با سی پلاس پلاس:
 
-GCC(Linux, among others):
+- GCC(Linux, among others):
+```
 g++ -std=c++0x example.cpp -o example_program
+```
 
-Clang(OS X, among others):
+- Clang(OS X, among others):
+```
 clang++ -std=c++11 -stdlib=libc++ example.cpp -o example_program
+```
