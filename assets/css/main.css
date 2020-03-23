@@ -8,9 +8,15 @@
 	width: 28%;
 	margin-top: 25px;
 }
+div.highlight {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
 .highlight {
-    direction: ltr;
-    text-align: left;
+	direction: ltr;
+	text-align: left;
+	padding: 10px;
+	border-radius: 4px;
 }
 content {
 	float: right;
