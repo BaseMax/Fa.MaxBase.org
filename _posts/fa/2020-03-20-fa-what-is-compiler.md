@@ -10,6 +10,8 @@ description: "ابزار های اساسی مورد نیاز برای دنبال
 tags: programming compiler interpreter cpp
 ---
 
+بعد از مطلبی که در مورد [روش های انتخاب یک زبان برنامه نویسی](https://fa.maxbase.org/programming/how-to-choose-the-best-programming-language-and-its-tips/) داشتیم.
+در این مطلب شروع می کنیم تا مقداری بیشتر با کامپایلر ها و زبان برنامه نویسی سی پلاس پلاس آشنا شویم.
 
 # کامپایلرها
 
