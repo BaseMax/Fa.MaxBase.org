@@ -49,3 +49,4 @@ collections:
 #   en:
 #     output: true
 #     permalink: /en/:path/
+highlighter: rouge
