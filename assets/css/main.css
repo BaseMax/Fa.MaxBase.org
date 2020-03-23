@@ -8,6 +8,10 @@
 	width: 28%;
 	margin-top: 25px;
 }
+.highlight {
+    direction: ltr;
+    text-align: left;
+}
 content {
 	float: right;
 	margin-top: 35px;
