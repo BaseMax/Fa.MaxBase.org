@@ -31,9 +31,9 @@ tags: programming compiler interpreter cpp
 
 ## کامپایلر های ALGOL 60
 
-- **ALGOL 60**: RHA (Minisystems) Ltd	DOS, CP/M for personal use
-- **Persistent S-algol	Paul Cockshott	DOS	Copyright only
-- **MCP	Unisys	MCP
+- **ALGOL 60**: RHA (Minisystems) Ltd
+- **Persistent S-algol**:	Paul Cockshott
+- **MCP	Unisys**:	MCP
 
 ## کامپایلر های ALGOL 68
 
