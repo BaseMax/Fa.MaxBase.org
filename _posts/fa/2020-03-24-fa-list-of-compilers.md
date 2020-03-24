@@ -24,7 +24,7 @@ tags: programming compiler interpreter cpp
 ## Ada compilers
 
 - **PTC ObjectAda**	PTC, Inc.
-- **GCC GNAT**	GNU Project	GPLv3+
+- **GCC GNAT**	GNU Projectv3+
 - **GreenHills Ada Optimizing Compiler**	Green Hills Software
 - **PTC ApexAda**	PTC, Inc.
 - **SCORE Ada**	DDC-I
@@ -50,7 +50,7 @@ tags: programming compiler interpreter cpp
 - **Interactive ALGOL 68I**	1983		UK	Incremental compilation	PCncommercial shareware |	
 - **ALGOL 68SS**	1985	Scientific	Intl	Sun version of ALGOL 68	Sun-3, Sun SPARC (under SunOS 4.1 & Solaris 2), Atari ST (under GEMDOS), Acorn Archimedes (under RISC OS), VAX-11 under Ultrix-32		
 - **Algol68toC (ctrans)**	1985	Electronics	UK	ctrans from ELLA ALGOL 68RS	Portable C generator 	Open Sourced & Public Domained 1995	ALGOL 68RS
-- **Algol 68 GenieG**	2001	Full Language	NL	Includes standard collateral clause	Portable interpreter	GPL	C
+- **Algol 68 GenieG**	2001	Full Language	NL	Includes standard collateral clause	Portable interpreter	C
 
 ## Assemblers (Intel *86)
 
@@ -73,8 +73,8 @@ tags: programming compiler interpreter cpp
 
 - **BlitzMax**	Blitz Research (Linux, OS X)	zlib License
 - **DarkBASIC**	The Game Creators
-- **FreeBASIC**	FreeBASIC Development Team	DOS	GPLv2+
-- **Gambas**	Benoît Minisini	GPLv2+
+- **FreeBASIC**	FreeBASIC Development Team	DOSv2+
+- **Gambas**	Benoît Minisiniv2+
 - **PowerBASIC**	PowerBASIC, Inc.	DOS
 - **PureBasic**	Fantaisie Software
 - **QB64**	Galleon	LGPLv2.1
@@ -111,7 +111,7 @@ tags: programming compiler interpreter cpp
 - **Digital Mars**	Digital Mars
 - **Digital Research C**	Digital Research	CP/M, DOS
 - **Edison Design Group**	Edison Design Group
-- **GCC C**	GNU Project	MinGW, Cygwin	IBM mainframe, AmigaOS, VAX/VMS, RTEMS, DOS	GPL	Partial[i]	Partial[i]	Partial[i]
+- **GCC C**	GNU Project	MinGW, Cygwin	IBM mainframe, AmigaOS, VAX/VMS, RTEMS, DOS	Partial[i]	Partial[i]	Partial[i]
 - **IAR C/C++ Compilers**	IAR Systems
 - **Intel C++ Compiler
 (icc)**	Intel	Linux, macOS (Freeware for most non-commercial applications)	Partial	Partial
@@ -123,11 +123,11 @@ tags: programming compiler interpreter cpp
 - **MCP**	Unisys	MCP
 - **MikroC Compiler**	Mikroelektronika
 - **MPW C**	Apple	Classic Mac OS
-- **Open64**	AMD SGI Google HP Intel Nvidia PathScale Tsinghua University and others	GPL
+- **Open64**	AMD SGI Google HP Intel Nvidia PathScale Tsinghua University and others
 - **Pacific C**	Hi-tech software	DOS	Freeware
 - **Pelles C**	Pelle Orinius	Freeware
 - **Personal C Compiler (PCC)**	DeSmet	DOS	Opensource
-- **PGCC**	The Portland Group	Unknown
+- **PGCC**	The Portland Group
 - **Portable C Compiler**	Stephen C. Johnson, Anders Magnusson and others	BSD	Partial
 - **QuickC**	Microsoft
 - **Ritchie C Compiler (PDP-11)**	Dennis Ritchie and John Reiser; converted to cross-compiler by Doug Gwyn	Freeware	Partial	Partial	Partial	Partial
@@ -135,7 +135,7 @@ tags: programming compiler interpreter cpp
 - **scc**	suckless.org	ISC License
 - **SCORE C (tcc)**	DDC-I
 - **Small-C**	Ron Caine, James E. Hendrix, Byte magazine	CP/M, DOS	Public domain	Partial
-- **Small Device C Compiler**	Sandeep Dutta and others	Unknown	GPL
+- **Small Device C Compiler**	Sandeep Dutta and others
 - **Tasking**	Altium	Linux, MacOS
 - **THINK C, Lightspeed C**	THINK Technologies	Classic Mac OS
 - **Tiny C Compiler**	Fabrice Bellard	LGPL	Partial	Partial
@@ -154,7 +154,7 @@ tags: programming compiler interpreter cpp
 - **DMS Software Reengineering Toolkit**	Semantic Designs	C/C++, COBOL, PL/I, many others	Arbitrary languages
 - **EDG Front End**	Edison Design Group	C/C++, Java, Fortran	C
 - **ROSE**	Lawrence Livermore National Laboratory	C, Fortran, and more	C, Fortran, and more	BSD
-- **PIPS Parallélisation interprocédurale de programmes scientifiques**	Mines ParisTech	C, Fortran	C, Fortran	GPL
+- **PIPS Parallélisation interprocédurale de programmes scientifiques**	Mines ParisTech	C, Fortran	C, Fortran
 
 
 ## C++ compilers
@@ -174,7 +174,7 @@ tags: programming compiler interpreter cpp
 - **EKOPath(pathCC)**	PathScale and others	Mixed (Proprietary,
 - **Open–source & GPL)[v] **	Partial
 - **GCC (g++)**	GNU Project	MinGW, MSYS2,
-- **Cygwin, Windows Subsystem**	GPLv3	QtCreator, Kdevelop, Eclipse,
+- **Cygwin, Windows Subsystem**v3	QtCreator, Kdevelop, Eclipse,
 - **NetBeans, Code::Blocks, Geany[v] 
 - HP aC++ (aCC)**	Hewlett-Packard	HP-UX	Partial
 - **IAR C/C++ Compilers (icc***)	IAR Systems	⟨Yes⟩	IAR Embedded Workbench	Partial
@@ -205,8 +205,8 @@ tags: programming compiler interpreter cpp
 
 - **Visual C#**	Microsoft	iOS
 - **Visual C# Express**	Microsoft	Freeware
-- **Mono**	Xamarin	GPLv2
-- **Portable.NET**	Dot Gnu Project	GPL
+- **Mono**	Xamarinv2
+- **Portable.NET**	Dot Gnu Project
 - **SharpDevelop**	IC#Code Team	LGPL
 - **Roslyn**	.NET Foundation	Partial	Apache 2.
 
@@ -216,7 +216,7 @@ tags: programming compiler interpreter cpp
 
 - **IBM COBOL**	IBM	AIX	z/OS, z/VM	Eclipse
 - **NetCOBOL**	Fujitsu, GTSoftware
-- **GnuCOBOL (formerly OpenCOBOL)**	Keisuke Nishida, Roger While, Simon Sobisch	GPL	OCIDE, HackEdit (alpha)
+- **GnuCOBOL (formerly OpenCOBOL)**	Keisuke Nishida, Roger While, Simon Sobisch	OCIDE, HackEdit (alpha)
 - **Visual COBOL**	Micro Focus
 - **MCP**	Unisys	MCP	CANDE
 - **HP COBOL**	Hewlett-Packard	OpenVMS	NetBeans
@@ -225,13 +225,13 @@ tags: programming compiler interpreter cpp
 ## Common Lisp compilers
 
 - **Allegro Common Lisp**	Franz, Inc.	Native code
-- **Armed Bear Common Lisp**	Peter Graves	JVM	GPL
-- **CLISP**	GNU Project	Bytecode	GPL
+- **Armed Bear Common Lisp**	Peter Graves	JVM
+- **CLISP**	GNU Project	Bytecode
 - **Clozure CL**	Clozure Associates	Native code	LGPL
 - **CMU Common Lisp**	Carnegie Mellon University	Native code, Bytecode	Public domain
 - **Corman Common Lisp**	Corman Technologies	Native code	MIT license
 - **Embeddable Common Lisp**	Juanjo Garcia-Ripoll	Bytecode, C	LGPL
-- **GNU Common Lisp**	GNU Project	C	GPL
+- **GNU Common Lisp**	GNU Project	C
 - **LispWorks**	LispWorks Ltd	Native code
 - **mocl**	Wukix	Native code
 - **Movitz**	Frode V. Fjeld	Native code, own OS	BSD
@@ -244,7 +244,7 @@ tags: programming compiler interpreter cpp
 - **D (DMD)**	Digital Mars and others	32-bit Linux, OS X, FreeBSD	Boost
 - **No
 - D for .NET
-- GDC**	GCC	GPL
+- GDC**	GCC
 - **LDC**	LLVM	multiple Open Source license depending on module
 
 
@@ -270,10 +270,10 @@ tags: programming compiler interpreter cpp
 - **PGFORTRAN**	The Portland Group	Linux only	Visual Studio on Windows
 - **PathScale Compiler Suite**	SiCortex	Linux only
 - **Absoft Pro Fortran**	Absoft	Linux, OS X
-- **G95**	Andy Vaught	GPL
-- **GNU Fortran**	GNU Project	GPLv3	Photran (part of Eclipse), Simply Fortran, Lahey Fortran
+- **G95**	Andy Vaught
+- **GNU Fortran**	GNU Projectv3	Photran (part of Eclipse), Simply Fortran, Lahey Fortran
 - **Intel Fortran Compiler**	Intel	Linux and OS X (plugins), Visual Studio on Windows, Eclipse on Linux, XCode on Mac
-- **Open64**	Google, HP, Intel, Nvidia, PathScale, Tsinghua University and others	GPL
+- **Open64**	Google, HP, Intel, Nvidia, PathScale, Tsinghua University and others
 - **FTN95**	Silverfrost
 - **NAG Fortran Compiler**	Numerical Algorithms Group
 - **VS Fortran**	IBM	z/OS and z/VM	Eclipse
@@ -286,7 +286,7 @@ tags: programming compiler interpreter cpp
 ## Go compilers
 
 - **Gc**	BSD-style
-- **Gccgo**	MinGW, Cygwin	GPL
+- **Gccgo**	MinGW, Cygwin
 - **llgo**	BSD-style
 - **Llgo**	University of Illinois/NCSA Open Source License
 - **Gopherjs**	BSD-2-Clause
@@ -303,9 +303,9 @@ tags: programming compiler interpreter cpp
 
 
 - **Edison Design Group**	Edison Design Group
-- **gcj**	GNU Project	GPL
+- **gcj**	GNU Project
 - **javac**	Sun Microsystems (Owned by Oracle)	BCL
-- **javac OpenJDK**	Sun Microsystems (Owned by Oracle)	GPL
+- **javac OpenJDK**	Sun Microsystems (Owned by Oracle)
 - **ECJ (Eclipse Compiler for Java)**	Eclipse project	EPL
 - **Jikes**	IBM
 - **Power J**	Sybase (Owned by SAP)
@@ -316,14 +316,14 @@ tags: programming compiler interpreter cpp
 - **Ceriel Jacobs**	BSD
 - **Delphi**	Embarcadero (CodeGear) (Linux, Mac OS) (iOS, Android)
 - **Oxygene (formerly Delphi Prism)**	RemObjects
-- **Free Pascal**	Florian Paul Klämpfl (OS/2, FreeBSD, Solaris, Haiku, Android, DOS, etc.[note )	GPL	FPIDE, Lazarus, Geany (on Ubuntu)
-- **GNU Pascal**	GNU Project	GPL
+- **Free Pascal**	Florian Paul Klämpfl (OS/2, FreeBSD, Solaris, Haiku, Android, DOS, etc.[note )	FPIDE, Lazarus, Geany (on Ubuntu)
+- **GNU Pascal**	GNU Project
 - **Kylix**	Borland
 (CodeGear) (Linux)
 - **Turbo Pascal for Windows**	Borland
 (CodeGear) (3.x)
 - **Microsoft Pascal**	Microsoft (DOS)
-- **HP Pascal**	Hewlett-Packard (OpenVMS)	Unknown
+- **HP Pascal**	Hewlett-Packard (OpenVMS)
 - **Turbo Pascal**	CodeGear
 (Borland)	Freeware
 - **Vector Pascal**	Glasgow University	OpenSource
@@ -356,31 +356,31 @@ tags: programming compiler interpreter cpp
 - **Psyco**	Armin Rigo
 - **Christian Tismer**	JIT	MIT
 - **Cython**		C	Apache 2.0
-- **Shed Skin**		C++	GPLv3 and BSD
+- **Shed Skin**		C++v3 and BSD
 - **PyPy**		JIT	MIT
 - **Nuitka**	Kay Hayen	C, C++	Apache 2.0
 
 ## Scheme compilers
 
-- **Bigloo**	Manuel Serrano	native, bytecode	GPL (compiler) and LGPL (runtime)
+- **Bigloo**	Manuel Serrano	native, bytecode (compiler) and LGPL (runtime)
 - **Chez Scheme**	R. Kent Dybvig	native	Apache 2.0
 - **Chicken**	The Chicken Team	C	BSD
 - **Common Larceny**	William Clinger, Lars Hansen	CLI	Larceny License
 - **Gambit**	Marc Feeley	C	LGPL
 - **GNU Guile**	GNU Project	bytecode	LGPL
-- **Ikarus**	Abdulaziz Ghuloum	native	GPL
+- **Ikarus**	Abdulaziz Ghuloum	native
 - **IronScheme**	Llewellyn Pritchard	CLI	Ms-PL
 - **JScheme**	Ken Anderson, Tim Hickey, Peter Norvig	bytecode	Java	Java	Java	zlib License
 - **Kawa**	Per Bothner	bytecode	Java	Java	Java	MIT
 - **Larceny**	William Clinger, Lars Hansen	native	Larceny License
-- **MIT/GNU Scheme**	GNU Project	native	GPL
+- **MIT/GNU Scheme**	GNU Project	native
 - **Owl Lisp**	Aki Helin	C	MIT
 - **Petit Larceny**	William Clinger, Lars Hansen	C	Larceny License
 - **Racket**	PLT Inc.	bytecode + JIT	LGPL	DrRacket
 - **RScheme**	Donovan Kolbly	C, bytecode	Open source
 - **Scheme 48**	Richard Kelsey, Jonathan Rees	C, bytecode	BSD
 - **SCM**	Aubrey Jaffer	C	AmigaOS, Atari ST, Classic Mac OS, DOS, OS/2, NOS/VE, OpenVMS	LGPL
-- **SISC**	Scott G. Miller, Matthias Radestock	bytecode	Java	Java	Java	GPL and MPL
+- **SISC**	Scott G. Miller, Matthias Radestock	bytecode	Java	Java	Java and MPL
 - **Stalin**	Jeffrey Mark Siskind	C	LGPL
 
 ## Scheme interpreters
@@ -391,7 +391,7 @@ tags: programming compiler interpreter cpp
 ## Smalltalk compilers
 
 - **Pharo**	Pharo Team	VM	MIT License
-- **GNU Smalltalk**	GNU Smalltalk project	bytecode + JIT	GPL
+- **GNU Smalltalk**	GNU Smalltalk project	bytecode + JIT
 - **VisualWorks**	Cincom Systems
 - **Smalltalk MT**	ObjectConnect	native
 
@@ -415,7 +415,7 @@ tags: programming compiler interpreter cpp
 - **Visual Studio**	Microsoft
 - **Mono**	Mono	MIT
 - **Delphi Prism**	RemObjects
-- **Portable.NET**	Dot Gnu Project	GPL	Unknown
+- **Portable.NET**	Dot Gnu Project
 
 
 ## Open source compilers
