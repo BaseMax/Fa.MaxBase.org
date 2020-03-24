@@ -49,17 +49,17 @@ tags: programming compiler interpreter cpp
 - **Leningrad ALGOL 68L**: 1980	Telecommunications	USSR	Full Language + Modules	IBM, DEC, CAMCOH, PS 1001 & PC	Soviet	
 - **Interactive ALGOL 68I**: 1983		UK	Incremental compilation	PCncommercial shareware |	
 - **ALGOL 68SS**: 1985	Scientific	Intl	Sun version of ALGOL 68	Sun-3, Sun SPARC (under SunOS 4.1 & Solaris 2), Atari ST (under GEMDOS), Acorn Archimedes (under RISC OS), VAX-11 under Ultrix-32		
-- **Algol68toC (ctrans)**: 1985	Electronics	UK	ctrans from ELLA ALGOL 68RS	Portable C generator 	Open Sourced & Public Domained 1995	ALGOL 68RS
+- **Algol68toC (ctrans)**: 1985	Electronics	UK	ctrans from ELLA ALGOL 68RS	Portable C generator d & Public Domained 1995	ALGOL 68RS
 - **Algol 68 GenieG**: 2001	Full Language	NL	Includes standard collateral clause	Portable interpreter	C
 
-## اسمبلر های Intel *86
+## اسمبلر های Intel 86
 
 - **Turbo Assembler**: Borland
 - **A86 assembler**: Eric Isaacson
 - **Microsoft Macro Assembler**: Microsoft
 - **Netwide Assembler**: Simon Tatham and Julian Hall
 
-## اسمبلر های Motorola 68*
+## اسمبلر های Motorola 68
 
 - **Microsoft MACRO-80**: Microsoft
 - **Zeus Assembler**: Neil Mottershead, Simon Brattel
@@ -242,7 +242,7 @@ tags: programming compiler interpreter cpp
 - **No
 - D for .NET
 - GDC**: GCC
-- **LDC**: LLVM	multiple Open Source license depending on module
+- **LDC**: LLVM	multiple depending on module
 
 ## کامپایلر های DIBOL/DBL
 
@@ -283,16 +283,16 @@ tags: programming compiler interpreter cpp
 - **Gc**: BSD-style
 - **Gccgo**: MinGW, Cygwin
 - **llgo**: BSD-style
-- **Llgo**: University of Illinois/NCSA Open Source License
+- **Llgo**: University of Illinois/NCSA
 - **Gopherjs**: BSD-2-Clause
 
 ## کامپایلر های Haskell
 
 - **HBC**: Lennart Augustsson
-- **Thomas Johnsson**: Open source
-- **GHC**: GHC	Open source
-- **YHC**: YHC	Open source
-- **JHC**: John Meacham	Open source
+- **Thomas Johnsson**:
+- **GHC**: GHC
+- **YHC**: YHC
+- **JHC**: John Meacham
 
 ## کامپایلر های Java
 
@@ -372,7 +372,7 @@ tags: programming compiler interpreter cpp
 - **Owl Lisp**: Aki Helin	C	MIT
 - **Petit Larceny**: William Clinger, Lars Hansen	C	Larceny License
 - **Racket**: PLT Inc.	bytecode + JIT	DrRacket
-- **RScheme**: Donovan Kolbly	C, bytecode	Open source
+- **RScheme**: Donovan Kolbly	C, bytecode
 - **Scheme 48**: Richard Kelsey, Jonathan Rees	C, bytecode
 - **SCM**: Aubrey Jaffer	C	AmigaOS, Atari ST, Classic Mac OS, DOS, OS/2, NOS/VE, OpenVMS
 - **SISC**: Scott G. Miller, Matthias Radestock	bytecode	Java	Java	Java and MPL
@@ -413,7 +413,7 @@ tags: programming compiler interpreter cpp
 - **Portable.NET**: Dot Gnu Project
 
 
-## کامپایلر های Open source
+## کامپایلر های اپن سورس و منبع باز
 
 - **Amsterdam Compiler Kit (ACK)** [C, Pascal, Modula-2, Occam, and BASIC] [Unix-like]
 - **Clang** C/C++/Objective-C Compiler
@@ -434,10 +434,10 @@ tags: programming compiler interpreter cpp
 
 کامپایلرهای تحقیقاتی اکثراً قوی و کامل نیستند تا بتوانند کاربردهای بزرگ و واقعی را کنترل کنند. آنها بیشتر برای نمونه سازی سریع ویژگی های جدید زبان و بهینه سازی جدید در مناطق تحقیقاتی استفاده می شوند.
 
-- **Open64**: A popular research compiler. Open64 merges the open source changes from the PathScale compiler mentioned.
-- **ROSE**: an open source compiler framework to generate source-to-source analyzers and translators for C/C++ and Fortran, developed at Lawrence Livermore National Laboratory
-- **MILEPOST GCC**: interactive plugin-based open-source research compiler that combines the strength of GCC and the flexibility of the common Interactive Compilation Interface that transforms production compilers into interactive research toolsets.
-- **Interactive Compilation Interface**: a plugin system with high-level API to transform production-quality compilers such as GCC into powerful and stable research infrastructure while avoiding developing new research compilers from scratch
-- **Phoenix optimization and analysis framework**: by Microsoft
-- **Edison Design Group**: provides production-quality front end compilers for C, C++, and Java (a number of the compilers listed on this page use front end source code from Edison Design Group). Additionally, Edison Design Group makes their proprietary software available for research uses.
+- **Open64**
+- **ROSE**
+- **MILEPOST GCC**
+- **Interactive Compilation Interface**
+- **Phoenix optimization and analysis framework**
+- **Edison Design Group**
 
