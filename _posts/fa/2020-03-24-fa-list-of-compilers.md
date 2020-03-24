@@ -52,24 +52,23 @@ tags: programming compiler interpreter cpp
 - **Algol68toC (ctrans)**: 1985	Electronics	UK	ctrans from ELLA ALGOL 68RS	Portable C generator 	Open Sourced & Public Domained 1995	ALGOL 68RS
 - **Algol 68 GenieG**: 2001	Full Language	NL	Includes standard collateral clause	Portable interpreter	C
 
-## Assemblers (Intel *86)
+## اسمبلر های Intel *86
 
 - **Turbo Assembler**: Borland
 - **A86 assembler**: Eric Isaacson
 - **Microsoft Macro Assembler**: Microsoft
 - **Netwide Assembler**: Simon Tatham and Julian Hall
 
-## Assemblers (Motorola 68*)
+## اسمبلر های Motorola 68*
 
 - **Microsoft MACRO-80**: Microsoft
 - **Zeus Assembler**: Neil Mottershead, Simon Brattel
 
-## Assemblers (other)
+## اسمبلر های دیگر
 
 - **TMS 9900 Assembler**: Texas Instruments
 
 ## کامپایلر های BASIC
-
 
 - **BlitzMax**: Blitz Research (Linux, OS X)	zlib License
 - **DarkBASIC**: The Game Creators
@@ -103,50 +102,49 @@ tags: programming compiler interpreter cpp
 - **Aztec C**: Manx Software Systems	CP/M, CP/M-86, DOS, Classic Mac OS
 - **Amsterdam Compiler Kit**: Andrew Tanenbaum and Ceriel Jacobs
 - **BDS C**: BD Software	CP/M	Public domain
-- **C++Builder**: Embarcadero (iOS, Android)	Partial
+- **C++Builder**: Embarcadero (iOS, Android)
 - **Ch**: SoftIntegration, Inc	OS X, FreeBSD, Linux, Solaris, HP-UX, AIX, Qnxware
-- **Clang**: LLVM Project	UoI/NCSA	Partial	Partial
+- **Clang**: LLVM Project	UoI/NCSA
 - **CoderStudio**: Manosware
-- **CompCert**: INRIAware (source code available for non-commercial use) or GPL	Partial
+- **CompCert**: INRIAware or GPL
 - **Digital Mars**: Digital Mars
 - **Digital Research C**: Digital Research	CP/M, DOS
 - **Edison Design Group**: Edison Design Group
-- **GCC C**: GNU Project	MinGW, Cygwin	IBM mainframe, AmigaOS, VAX/VMS, RTEMS, DOS	Partial[i]	Partial[i]	Partial[i]
+- **GCC C**: GNU Project	MinGW, Cygwin	IBM mainframe, AmigaOS, VAX/VMS, RTEMS, DOS
 - **IAR C/C++ Compilers**: IAR Systems
-- **Intel C++ Compiler
-(icc)**: Intel	Linux, macOS (Freeware for most non-commercial applications)	Partial	Partial
-- **Interactive C**: KISS Institute for Practical Robotics	Unix, OS X, Linux, IRIX, Solaris, SunOSware	Partial
-- **keil C/C++ Compilers**: Keil (company)
+- **Intel C++ Compiler(icc)**: Linux, macOS 
+- **Interactive C**: KISS Institute for Practical Robotics	Unix, OS X, Linux, IRIX, Solaris, SunOSware
+- **keil C/C++ Compilers**: Keil
 - **Lattice C**: Lifeboat Associates	DOS, OS/2, Commodore, Amiga, Atari ST, Sinclair QL
-- **lcc**: Chris Fraser and David Hansonware (source code available for non-commercial use)
-- **Mark Williams C**: Mark Williams Company	Coherent - Coherent Compiler 3-clause BSD[clarification needed]
+- **lcc**: Chris Fraser and David Hansonware
+- **Mark Williams C**: Mark Williams Company	Coherent - Coherent Compiler 3-clause
 - **MCP**: Unisys	MCP
 - **MikroC Compiler**: Mikroelektronika
 - **MPW C**: Apple	Classic Mac OS
-- **Open64**: AMD SGI Google HP Intel Nvidia PathScale Tsinghua University and others
+- **Open64**: AMD SGI Google HP Intel Nvidia PathScale Tsinghua University
 - **Pacific C**: Hi-tech software	DOSware
 - **Pelles C**: Pelle Oriniusware
 - **Personal C Compiler (PCC)**: DeSmet	DOS	Opensource
 - **PGCC**: The Portland Group
-- **Portable C Compiler**: Stephen C. Johnson, Anders Magnusson and others	Partial
+- **Portable C Compiler**: Stephen C. Johnson, Anders Magnusson
 - **QuickC**: Microsoft
-- **Ritchie C Compiler (PDP-11)**: Dennis Ritchie and John Reiser; converted to cross-compiler by Doug Gwynware	Partial	Partial	Partial	Partial
+- **Ritchie C Compiler (PDP-11)**: Dennis Ritchie and John Reiser; converted to cross-compiler by Doug Gwynware
 - **SAS/C**: SAS Institute IBM mainframe, AmigaOS, 68K, 88K
 - **scc**: suckless.org	ISC License
 - **SCORE C (tcc)**: DDC-I
-- **Small-C**: Ron Caine, James E. Hendrix, Byte magazine	CP/M, DOS	Public domain	Partial
-- **Small Device C Compiler**: Sandeep Dutta and others
+- **Small-C**: Ron Caine, James E. Hendrix, Byte magazine	CP/M, DOS	Public domain
+- **Small Device C Compiler**: Sandeep Dutta
 - **Tasking**: Altium	Linux, MacOS
 - **THINK C, Lightspeed C**: THINK Technologies	Classic Mac OS
-- **Tiny C Compiler**: Fabrice Bellard	Partial	Partial
+- **Tiny C Compiler**: Fabrice Bellard
 (Borland) Turbo C	Embarcadero - V 2.01 freely available
-- **VBCC**: Volker Barthelmannware (source code available, modification not allowed)	Partial
-- **Visual C++ Express**: Microsoftware	Partial	Partial
+- **VBCC**: Volker Barthelmannware 
+- **Visual C++ Express**: Microsoftware
 - **Oracle C compiler**: Oracle	Solaris, Linux (Freeware)
 - **Watcom C/C++,
-- Open Watcom C/C++**: Watcom	experimental	DOS, OS/2	Sybase Open Watcom Public License	Partial
+- Open Watcom C/C++**: Watcom	experimental	DOS, OS/2	Sybase Open Watcom Public License
 - **Wind River (Diab) Compiler**: Wind River Systems
-- **XL C**: IBM	AIX, Linux	Partial
+- **XL C**: IBM	AIX, Linux
 
 ## کامپایلر های Source-to-source
 
@@ -162,44 +160,43 @@ tags: programming compiler interpreter cpp
 - **AMD Optimizing C/C++ Compiler (AOCC)**: AMD	UIUC license
 - **Arm Compiler for Linux (ACfL)**: Arm
 - **C++Builder (classic Borland, bcc***)	Embarcadero (CodeGear) (bcc32)	macOS (bccosx)
-- **C++Builder (modern, bcc***c)	Embarcadero (LLVM) (bcc32c,bcc64)	⟨iOS⟩ (bccios*), ⟨Android⟩ (bcca*)[ii]
+- **C++Builder (modern, bcc***c)	Embarcadero (LLVM) (bcc32c,bcc64)	⟨iOS⟩ (bccios*), ⟨Android⟩ (bcca*)
 - **Turbo C++ (tcc)**: Borland (CodeGear)	DOS (Freeware)
 - **CINT**: CERN	BeBox, DOS, etc.	X11/MIT
 - **Cfront**: Bjarne Stroustrup	
-- **Clang (clang++)**: LLVM Project	UoI/NCSA	Xcode, QtCreator (optional)[ii] 
-- **Comeau C/C++**: Comeau Computing[iii]
+- **Clang (clang++)**: LLVM Project	UoI/NCSA	Xcode, QtCreator (optional) 
+- **Comeau C/C++**: Comeau Computing
 - **Cray C/C++ (CC)**: Cray[iv] [iv]
 - **Digital Mars C/C++ (dmc)**: Digital Mars	DOS	Some
-- **EDG C++ Front End (eccp, edgcpfe)**: Edison Design Group[iii] 	Partial
-- **EKOPath(pathCC)**: PathScale and others	Mixed (Proprietary,
-- **Open–source & GPL)[v] **: Partial
+- **EDG C++ Front End (eccp, edgcpfe)**: Edison Design Group 
+- **EKOPath(pathCC)**: PathScale	Mixed
 - **GCC (g++)**: GNU Project	MinGW, MSYS2,
 - **Cygwin, Windows Subsystem**v3	QtCreator, Kdevelop, Eclipse,
 - **NetBeans, Code::Blocks, Geany[v] 
-- HP aC++ (aCC)**: Hewlett-Packard	HP-UX	Partial
-- **IAR C/C++ Compilers (icc***)	IAR Systems	⟨Yes⟩	IAR Embedded Workbench	Partial
-- **Intel C++ Compiler (icc)**: Intel	Linux, macOS, FreeBSD; ⟨Android (x86)⟩ (Freeware)	Visual Studio, Eclipse, Xcode[iii] 	Partial
+- HP aC++ (aCC)**: Hewlett-Packard	HP-UX
+- **IAR C/C++ Compilers (icc***)	IAR Systems	⟨Yes⟩	IAR Embedded Workbench
+- **Intel C++ Compiler (icc)**: Intel	Linux, macOS, FreeBSD; ⟨Android (x86)⟩ (Freeware)	Visual Studio, Eclipse, Xcode 
 - **KAI C++ (KCC)**: Kuck & Associates, Inc.
 ⟨subsumed by Intel⟩	TOPS-20, Digital Unix, HP-UX, Linux (x86),
-- **Irix 5.3 & 6.x, Solaris 2.x, UNICOS[iii] 
+- **Irix 5.3 & 6.x, Solaris 2.x, UNICOS 
 - Microtec C/C++ (mcc)**: Mentor ⟨Siemens⟩	EDGE Developer Suite
 - **EDGE C/C++[vi]**: Mentor ⟨Siemens⟩	EDGE Developer Suite
-- **Open64 (openCC)**: HP, AMD, Tsinghua University and others	Modified GPLv2[v][vii] 
-- **PGC++ (pgc++)**: PGI ⟨Nvidia⟩	Unsupported	Linux, macOS	Eclipse, Xcode, Visual Studio[iii] 	Partial
+- **Open64 (openCC)**: HP, AMD, Tsinghua University	Modified GPLv2[v][vii] 
+- **PGC++ (pgc++)**: PGI ⟨Nvidia⟩	Unsupported	Linux, macOS	Eclipse, Xcode, Visual Studio 
 - **ProDev WorkShop**: Silicon Graphics
-- **RealView Compilation Tools (armcc)**: Keil ⟨Arm⟩	⟨Yes⟩	RealView Development Suite[iii] 
-- **Arm Compiler (armcc)**: Keil ⟨Arm⟩	⟨Yes⟩	μVision, DS-5[iii] 
-- **Arm Compiler (armclang)**: Keil ⟨Arm⟩ (LLVM)	⟨Yes⟩	μVision, DS-5[ii] 
+- **RealView Compilation Tools (armcc)**: Keil ⟨Arm⟩	⟨Yes⟩	RealView Development Suite 
+- **Arm Compiler (armcc)**: Keil ⟨Arm⟩	⟨Yes⟩	μVision, DS-5 
+- **Arm Compiler (armclang)**: Keil ⟨Arm⟩ (LLVM)	⟨Yes⟩	μVision, DS-5 
 - **Salford C++ Compiler**: Silverfrost
 - **SAS/C C++**: SAS Institute	Windows NT/95	AIX, Solaris/SunOS, Linux	IBM mainframe, DOS
 - **SCORE C++ (tpp)**: DDC-I
 - **Oracle C++ Compiler (CC)**: Oracle	Linux, Solaris (Freeware)	Oracle Developer Studio, NetBeans
 - **TenDRA (tcc)**: TenDRA Project
 - **VectorC**: Codeplay	⟨PS2⟩, ⟨PS3⟩, etc.	Visual Studio, CodeWarrior	Some
-- **Visual C++ (cl)**: Microsoft	Linux, macOS; ⟨Android⟩, ⟨iOS⟩	Visual Studio	Partial
+- **Visual C++ (cl)**: Microsoft	Linux, macOS; ⟨Android⟩, ⟨iOS⟩	Visual Studio
 - **VisualAge C++ (vac++)**: IBM	AIX, Linux	OS/2, OS/400, z/OS, VM	VisualAge
 - **XL C/C++ (xlc++)**: IBM	Linux (POWER), AIX	z/OS, VM	Eclipse
-- **Diab Compiler (dcc)**: Wind River ⟨TPG Capital⟩	Linux, Solaris	⟨VxWorks⟩	Wind River Workbench[iii] 
+- **Diab Compiler (dcc)**: Wind River ⟨TPG Capital⟩	Linux, Solaris	⟨VxWorks⟩	Wind River Workbench 
 
 ## کامپایلر های C#
 
@@ -208,7 +205,7 @@ tags: programming compiler interpreter cpp
 - **Mono**: Xamarinv2
 - **Portable.NET**: Dot Gnu Project
 - **SharpDevelop**: IC#Code Team
-- **Roslyn**: .NET Foundation	Partial	Apache 2.
+- **Roslyn**: .NET Foundation	Apache 2.
 
 
 ## کامپایلر های COBOL
@@ -241,7 +238,7 @@ tags: programming compiler interpreter cpp
 
 ## کامپایلر های D
 
-- **D (DMD)**: Digital Mars and others	32-bit Linux, OS X, FreeBSD	Boost
+- **D (DMD)**: Digital Mars	32-bit Linux, OS X, FreeBSD	Boost
 - **No
 - D for .NET
 - GDC**: GCC
@@ -257,8 +254,8 @@ tags: programming compiler interpreter cpp
 
 ## کامپایلر های Eiffel
 
-- **EiffelStudio**: Eiffel Software / Community developed (sourceforge)	Dual GPL / Proprietary
-[clarification needed]
+- **EiffelStudio**: Eiffel Software / Community developed (sourceforge)
+
 
 ## کامپایلر های Fortran
 
@@ -271,7 +268,7 @@ tags: programming compiler interpreter cpp
 - **G95**: Andy Vaught
 - **GNU Fortran**: GNU Projectv3	Photran (part of Eclipse), Simply Fortran, Lahey Fortran
 - **Intel Fortran Compiler**: Intel	Linux and OS X (plugins), Visual Studio on Windows, Eclipse on Linux, XCode on Mac
-- **Open64**: Google, HP, Intel, Nvidia, PathScale, Tsinghua University and others
+- **Open64**: Google, HP, Intel, Nvidia, PathScale, Tsinghua University
 - **FTN95**: Silverfrost
 - **NAG Fortran Compiler**: Numerical Algorithms Group
 - **VS Fortran**: IBM	z/OS and z/VM	Eclipse
@@ -335,7 +332,7 @@ tags: programming compiler interpreter cpp
 
 ## کامپایلر های PHP
 
-- **Phalanger**: Devsense	Partial
+- **Phalanger**: Devsense
 - **PeachPie**: iolevel
 - **HHVM**: Facebook	PHP and Zend
 
