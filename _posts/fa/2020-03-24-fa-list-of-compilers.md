@@ -31,7 +31,7 @@ tags: programming compiler interpreter cpp
 
 ## کامپایلر های ALGOL 60
 
-- **ALGOL 60**: RHA (Minisystems) Ltd	DOS, CP/M	Free for personal use
+- **ALGOL 60**: RHA (Minisystems) Ltd	DOS, CP/M for personal use
 - **Persistent S-algol	Paul Cockshott	DOS	Copyright only
 - **MCP	Unisys	MCP
 
@@ -77,7 +77,7 @@ tags: programming compiler interpreter cpp
 - **Gambas**: Benoît Minisiniv2+
 - **PowerBASIC**: PowerBASIC, Inc.	DOS
 - **PureBasic**: Fantaisie Software
-- **QB64**: Galleon	LGPLv2.1
+- **QB64**: Galleonv2.1
 - **QuickBASIC**: Microsoft	DOS
 - **Xojo (formerly REALbasic)**: Xojo Inc. (formerly Real Software)
 - **True BASIC**: True BASIC
@@ -87,7 +87,7 @@ tags: programming compiler interpreter cpp
 - **Liberty BASIC**: Shoptalk Systems
 - **GW-BASIC**: Microsoft	MS-DOS
 - **QBasic**: Microsoft
-- **Chipmunk Basic**: Ronald H. Nicholson, Jr.	Freeware
+- **Chipmunk Basic**: Ronald H. Nicholson, Jr.ware
 - **TI Basic**: Texas Instruments	TI-99/4A
 - **TI Extended Basic**: Texas Instruments	TI-99/4A
 - **Rocky Mountain BASIC**: [Trans Era]	HP 9000
@@ -104,10 +104,10 @@ tags: programming compiler interpreter cpp
 - **Amsterdam Compiler Kit**: Andrew Tanenbaum and Ceriel Jacobs
 - **BDS C**: BD Software	CP/M	Public domain
 - **C++Builder**: Embarcadero (iOS, Android)	Partial
-- **Ch**: SoftIntegration, Inc	OS X, FreeBSD, Linux, Solaris, HP-UX, AIX, Qnx	Freeware
+- **Ch**: SoftIntegration, Inc	OS X, FreeBSD, Linux, Solaris, HP-UX, AIX, Qnxware
 - **Clang**: LLVM Project	UoI/NCSA	Partial	Partial
-- **CoderStudio**: Manos	Freeware
-- **CompCert**: INRIA	Freeware (source code available for non-commercial use) or GPL	Partial
+- **CoderStudio**: Manosware
+- **CompCert**: INRIAware (source code available for non-commercial use) or GPL	Partial
 - **Digital Mars**: Digital Mars
 - **Digital Research C**: Digital Research	CP/M, DOS
 - **Edison Design Group**: Edison Design Group
@@ -115,22 +115,22 @@ tags: programming compiler interpreter cpp
 - **IAR C/C++ Compilers**: IAR Systems
 - **Intel C++ Compiler
 (icc)**: Intel	Linux, macOS (Freeware for most non-commercial applications)	Partial	Partial
-- **Interactive C**: KISS Institute for Practical Robotics	Unix, OS X, Linux, IRIX, Solaris, SunOS	Freeware	Partial
+- **Interactive C**: KISS Institute for Practical Robotics	Unix, OS X, Linux, IRIX, Solaris, SunOSware	Partial
 - **keil C/C++ Compilers**: Keil (company)
 - **Lattice C**: Lifeboat Associates	DOS, OS/2, Commodore, Amiga, Atari ST, Sinclair QL
-- **lcc**: Chris Fraser and David Hanson	Freeware (source code available for non-commercial use)
+- **lcc**: Chris Fraser and David Hansonware (source code available for non-commercial use)
 - **Mark Williams C**: Mark Williams Company	Coherent - Coherent Compiler 3-clause BSD[clarification needed]
 - **MCP**: Unisys	MCP
 - **MikroC Compiler**: Mikroelektronika
 - **MPW C**: Apple	Classic Mac OS
 - **Open64**: AMD SGI Google HP Intel Nvidia PathScale Tsinghua University and others
-- **Pacific C**: Hi-tech software	DOS	Freeware
-- **Pelles C**: Pelle Orinius	Freeware
+- **Pacific C**: Hi-tech software	DOSware
+- **Pelles C**: Pelle Oriniusware
 - **Personal C Compiler (PCC)**: DeSmet	DOS	Opensource
 - **PGCC**: The Portland Group
 - **Portable C Compiler**: Stephen C. Johnson, Anders Magnusson and others	Partial
 - **QuickC**: Microsoft
-- **Ritchie C Compiler (PDP-11)**: Dennis Ritchie and John Reiser; converted to cross-compiler by Doug Gwyn	Freeware	Partial	Partial	Partial	Partial
+- **Ritchie C Compiler (PDP-11)**: Dennis Ritchie and John Reiser; converted to cross-compiler by Doug Gwynware	Partial	Partial	Partial	Partial
 - **SAS/C**: SAS Institute IBM mainframe, AmigaOS, 68K, 88K
 - **scc**: suckless.org	ISC License
 - **SCORE C (tcc)**: DDC-I
@@ -138,10 +138,10 @@ tags: programming compiler interpreter cpp
 - **Small Device C Compiler**: Sandeep Dutta and others
 - **Tasking**: Altium	Linux, MacOS
 - **THINK C, Lightspeed C**: THINK Technologies	Classic Mac OS
-- **Tiny C Compiler**: Fabrice Bellard	LGPL	Partial	Partial
+- **Tiny C Compiler**: Fabrice Bellard	Partial	Partial
 (Borland) Turbo C	Embarcadero - V 2.01 freely available
-- **VBCC**: Volker Barthelmann	Freeware (source code available, modification not allowed)	Partial
-- **Visual C++ Express**: Microsoft	Freeware	Partial	Partial
+- **VBCC**: Volker Barthelmannware (source code available, modification not allowed)	Partial
+- **Visual C++ Express**: Microsoftware	Partial	Partial
 - **Oracle C compiler**: Oracle	Solaris, Linux (Freeware)
 - **Watcom C/C++,
 - Open Watcom C/C++**: Watcom	experimental	DOS, OS/2	Sybase Open Watcom Public License	Partial
@@ -204,10 +204,10 @@ tags: programming compiler interpreter cpp
 ## کامپایلر های C#
 
 - **Visual C#**: Microsoft	iOS
-- **Visual C# Express**: Microsoft	Freeware
+- **Visual C# Express**: Microsoftware
 - **Mono**: Xamarinv2
 - **Portable.NET**: Dot Gnu Project
-- **SharpDevelop**: IC#Code Team	LGPL
+- **SharpDevelop**: IC#Code Team
 - **Roslyn**: .NET Foundation	Partial	Apache 2.
 
 
@@ -227,10 +227,10 @@ tags: programming compiler interpreter cpp
 - **Allegro Common Lisp**: Franz, Inc.	Native code
 - **Armed Bear Common Lisp**: Peter Graves	JVM
 - **CLISP**: GNU Project	Bytecode
-- **Clozure CL**: Clozure Associates	Native code	LGPL
+- **Clozure CL**: Clozure Associates	Native code
 - **CMU Common Lisp**: Carnegie Mellon University	Native code, Bytecode	Public domain
 - **Corman Common Lisp**: Corman Technologies	Native code
-- **Embeddable Common Lisp**: Juanjo Garcia-Ripoll	Bytecode, C	LGPL
+- **Embeddable Common Lisp**: Juanjo Garcia-Ripoll	Bytecode, C
 - **GNU Common Lisp**: GNU Project	C
 - **LispWorks**: LispWorks Ltd	Native code
 - **mocl**: Wukix	Native code
@@ -302,7 +302,7 @@ tags: programming compiler interpreter cpp
 
 - **Edison Design Group**: Edison Design Group
 - **gcj**: GNU Project
-- **javac**: Sun Microsystems (Owned by Oracle)	BCL
+- **javac**: Sun Microsystems (Owned by Oracle)
 - **javac OpenJDK**: Sun Microsystems (Owned by Oracle)
 - **ECJ (Eclipse Compiler for Java)**: Eclipse project	EPL
 - **Jikes**: IBM
@@ -323,20 +323,20 @@ tags: programming compiler interpreter cpp
 - **Microsoft Pascal**: Microsoft (DOS)
 - **HP Pascal**: Hewlett-Packard (OpenVMS)
 - **Turbo Pascal**: CodeGear
-(Borland)	Freeware
+(Borland)ware
 - **Vector Pascal**: Glasgow University	OpenSource
-- **Virtual Pascal**: Vitaly Miryanov (OS/2)	Freeware
+- **Virtual Pascal**: Vitaly Miryanov (OS/2)ware
 - **MCP**: Unisys	MCP	CANDE
 
 ## مفسر های Perl
 
-- **ActivePerl interpreter**: ActiveState	Free
+- **ActivePerl interpreter**: ActiveState
 - **Perl interpreter**: Wall/Perl developers	Default functionality of Perl and Unix
 
 ## کامپایلر های PHP
 
-- **Phalanger**: Devsense	Partial	Apache 2.0
-- **PeachPie**: iolevel	Apache 2.0
+- **Phalanger**: Devsense	Partial
+- **PeachPie**: iolevel
 - **HHVM**: Facebook	PHP and Zend
 
 
@@ -344,7 +344,7 @@ tags: programming compiler interpreter cpp
 
 - **IBM Enterprise PL/I for z/OS**: IBM (z/OS)
 - **IBM PL/I for AIX**: IBM (AIX)
-- **IBM PL/I(F)**: IBM (z/OS)	Free
+- **IBM PL/I(F)**: IBM (z/OS)
 - **IBM VisualAge PL/I Enterprise for OS/2 and Windows NT**: IBM (OS/2)
 - **Micro Focus Open PL/I**: Micro Focus
 
@@ -353,19 +353,19 @@ tags: programming compiler interpreter cpp
 
 - **Psyco**: Armin Rigo
 - **Christian Tismer**: JIT	MIT
-- **Cython**: 	C	Apache 2.0
+- **Cython**: 	C
 - **Shed Skin**: 	C++v3 and BSD
 - **PyPy**: 	JIT	MIT
-- **Nuitka**: Kay Hayen	C, C++	Apache 2.0
+- **Nuitka**: Kay Hayen	C, C++
 
 ## کامپایلر های Scheme
 
 - **Bigloo**: Manuel Serrano	native, bytecode (compiler) and LGPL (runtime)
-- **Chez Scheme**: R. Kent Dybvig	native	Apache 2.0
+- **Chez Scheme**: R. Kent Dybvig	native
 - **Chicken**: The Chicken Team	C
 - **Common Larceny**: William Clinger, Lars Hansen	CLI	Larceny License
-- **Gambit**: Marc Feeley	C	LGPL
-- **GNU Guile**: GNU Project	bytecode	LGPL
+- **Gambit**: Marc Feeley	C
+- **GNU Guile**: GNU Project	bytecode
 - **Ikarus**: Abdulaziz Ghuloum	native
 - **IronScheme**: Llewellyn Pritchard	CLI	Ms-PL
 - **JScheme**: Ken Anderson, Tim Hickey, Peter Norvig	bytecode	Java	Java	Java	zlib License
@@ -374,17 +374,17 @@ tags: programming compiler interpreter cpp
 - **MIT/GNU Scheme**: GNU Project	native
 - **Owl Lisp**: Aki Helin	C	MIT
 - **Petit Larceny**: William Clinger, Lars Hansen	C	Larceny License
-- **Racket**: PLT Inc.	bytecode + JIT	LGPL	DrRacket
+- **Racket**: PLT Inc.	bytecode + JIT	DrRacket
 - **RScheme**: Donovan Kolbly	C, bytecode	Open source
 - **Scheme 48**: Richard Kelsey, Jonathan Rees	C, bytecode
-- **SCM**: Aubrey Jaffer	C	AmigaOS, Atari ST, Classic Mac OS, DOS, OS/2, NOS/VE, OpenVMS	LGPL
+- **SCM**: Aubrey Jaffer	C	AmigaOS, Atari ST, Classic Mac OS, DOS, OS/2, NOS/VE, OpenVMS
 - **SISC**: Scott G. Miller, Matthias Radestock	bytecode	Java	Java	Java and MPL
-- **Stalin**: Jeffrey Mark Siskind	C	LGPL
+- **Stalin**: Jeffrey Mark Siskind	C
 
 ## مفسر های Scheme
 
 - **Gauche**: Shiro Kawai
-- **Petite Chez Scheme**: R. Kent Dybvig	Apache 2.0
+- **Petite Chez Scheme**: R. Kent Dybvig
 
 ## کامپایلر های Smalltalk
 
@@ -394,7 +394,7 @@ tags: programming compiler interpreter cpp
 - **Smalltalk MT**: ObjectConnect	native
 
 ## مفسر های Tcl
-- **ActiveTcl**: ActiveState	Free
+- **ActiveTcl**: ActiveState
 - **Tclsh**: MKS and many others and/or free
 - **Wish**: MKS and many others and/or free
 
@@ -404,7 +404,7 @@ tags: programming compiler interpreter cpp
 
 ## مفسر های Rexx
 
-- **Regina Rexx**: Regina OS/2	Free
+- **Regina Rexx**: Regina OS/2
 - **ObjectRexx**: IBM
 - **Open Object Rexx**: OO Organisation	
 
