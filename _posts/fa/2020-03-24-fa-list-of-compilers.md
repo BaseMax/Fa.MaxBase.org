@@ -10,6 +10,8 @@ description: "در این مطلب می توانید با کامپایلر و م
 tags: programming compiler interpreter cpp
 ---
 
+در این مطلب می توانید با کامپایلر و مفسر های مختلفی که برای زبان های برنامه نویسی معرفی شده اند اشنا شوید. سعی شده است که در لیست تمامی کامپایلر های مطرح وجود داشته باشند.
+
 در این مطلب در نظر گرفته شده است تا کلیه کامپایلرهای فعلی ، ژنراتورهای کامپایلر ، مترجمین ، مبانی ابزار ، اسمبلرها ، رابطهای خط فرمان خودکار و ... را فهرست کنیم.
 
 بنابراین در زیر می توانید اسامی کامپایلر ها را برای زبان های برنامه نویسی مختلف پیدا کنید.
@@ -327,4 +329,120 @@ Turbo Pascal	CodeGear
 Vector Pascal	Glasgow University	Yes	Yes	No	OpenSource	No
 Virtual Pascal	Vitaly Miryanov	Yes	Yes	Yes (OS/2)	Freeware	Yes
 MCP	Unisys	No	No	MCP	Proprietary	CANDE
+
+## Perl Interpreters
+
+ActivePerl interpreter	ActiveState	Yes	Yes	Yes	Free
+Perl interpreter	Wall/Perl developers	Yes	Yes	Yes	Default functionality of Perl and Unix
+
+## PHP compilers
+
+Phalanger	Devsense	Yes	No	Partial	Apache 2.0	Yes
+PeachPie	iolevel	Yes	Yes	Yes	Apache 2.0	Yes
+HHVM	Facebook	No	Yes	Yes	PHP and Zend	Yes
+
+
+## PL/I compilers
+
+IBM Enterprise PL/I for z/OS	IBM	No	No	Yes (z/OS)	Proprietary	No
+IBM PL/I for AIX	IBM	No	Yes (AIX)	No	Proprietary	No
+IBM PL/I(F)	IBM	No	No	Yes (z/OS)	Free	No
+IBM VisualAge PL/I Enterprise for OS/2 and Windows NT	IBM	Yes	No	Yes (OS/2)	Proprietary	No
+Micro Focus Open PL/I	Micro Focus	Yes	Yes	No	Proprietary	Yes
+
+
+## Python compilers and interpreters
+
+Psyco	Armin Rigo
+Christian Tismer	JIT	Yes	Yes	Yes	MIT	No
+Cython		C	Yes	Yes	Yes	Apache 2.0	No
+Shed Skin		C++	Yes	Yes	Yes	GPLv3 and BSD	No
+PyPy		JIT	Yes	Yes	Yes	MIT	No
+Nuitka	Kay Hayen	C, C++	Yes	Yes	Yes	Apache 2.0	No
+
+## Scheme compilers
+
+Bigloo	Manuel Serrano	native, bytecode	Yes	Yes	?	GPL (compiler) and LGPL (runtime)	No
+Chez Scheme	R. Kent Dybvig	native	Yes	Yes	No	Apache 2.0	No
+Chicken	The Chicken Team	C	Yes	Yes	?	BSD	No
+Common Larceny	William Clinger, Lars Hansen	CLI	Yes	?	?	Larceny License[53]	No
+Gambit	Marc Feeley	C	Yes	Yes	?	LGPL	No
+GNU Guile	GNU Project	bytecode	Yes	Yes	?	LGPL	No
+Ikarus	Abdulaziz Ghuloum	native	Yes	Yes	?	GPL	No
+IronScheme	Llewellyn Pritchard	CLI	Yes	Yes	?	Ms-PL	No
+JScheme	Ken Anderson, Tim Hickey, Peter Norvig	bytecode	Java	Java	Java	zlib License	No
+Kawa	Per Bothner	bytecode	Java	Java	Java	MIT	No
+Larceny	William Clinger, Lars Hansen	native	Yes	Yes	?	Larceny License[53]	No
+MIT/GNU Scheme	GNU Project	native	Yes	Yes	?	GPL	No
+Owl Lisp	Aki Helin	C	Yes	Yes	?	MIT	No
+Petit Larceny	William Clinger, Lars Hansen	C	?	Yes	?	Larceny License[53]	No
+Racket	PLT Inc.	bytecode + JIT	Yes	Yes	No[54]	LGPL	DrRacket
+RScheme	Donovan Kolbly	C, bytecode	?	Yes	?	Open source	No
+Scheme 48	Richard Kelsey, Jonathan Rees	C, bytecode	Yes	Yes	?	BSD	No
+SCM	Aubrey Jaffer	C	Yes	Yes	AmigaOS, Atari ST, Classic Mac OS, DOS, OS/2, NOS/VE, OpenVMS	LGPL	No
+SISC	Scott G. Miller, Matthias Radestock	bytecode	Java	Java	Java	GPL and MPL	No
+Stalin	Jeffrey Mark Siskind	C	?	Yes	?	LGPL	No
+
+## Scheme interpreters
+
+Gauche	Shiro Kawai	Yes	Yes	?	BSD	No
+Petite Chez Scheme	R. Kent Dybvig	Yes	Yes	No	Apache 2.0	No
+
+## Smalltalk compilers
+
+Pharo	Pharo Team	VM	Yes	Yes	Yes	MIT License	Yes
+GNU Smalltalk	GNU Smalltalk project	bytecode + JIT	Yes	Yes	No	GPL	No
+VisualWorks	Cincom Systems	?	Yes	Yes	Yes	Proprietary	Yes
+Smalltalk MT	ObjectConnect	native	Yes	No	No	Proprietary	Yes
+
+## Tcl Interpreters
+ActiveTcl	ActiveState	Yes	Yes	Yes	Free
+Tclsh	MKS and many others	Yes	Yes	Yes	Proprietary and/or free
+Wish	MKS and many others	Yes	Yes	Yes	Proprietary and/or free
+
+## VMS Interpreters
+
+Default VMS	Digital	No	No	Yes VAX VMS	Proprietary
+
+## Rexx Interpreters
+
+Regina Rexx	Regina	Yes	Yes	Yes OS/2	Free
+ObjectRexx	IBM	Yes	?	Yes	Proprietary
+Open Object Rexx	OO Organisation	Yes	No	No	
+
+## CLI compilers
+
+Visual Studio	Microsoft	Yes	No	No	Proprietary	Yes
+Mono	Mono	Yes	Yes	No	MIT	Yes
+Delphi Prism	RemObjects	Yes	Yes	Yes	Proprietary	Yes
+Portable.NET	Dot Gnu Project	Yes	Yes	No	GPL	Unknown
+
+
+## Open source compilers
+
+Amsterdam Compiler Kit (ACK) [C, Pascal, Modula-2, Occam, and BASIC] [Unix-like]
+Clang C/C++/Objective-C Compiler
+AMD Optimizing C/C++ Compiler
+FreeBASIC [Basic] [DOS/Linux/Windows]
+Free Pascal [Pascal] [DOS/Linux/Windows(32/64/CE)/MacOS/NDS/GBA/..(and many more)]
+GCC: C, C++ (G++), Java (GCJ), Ada (GNAT), Objective-C, Objective-C++, Fortran (GFortran), and Go (GCCGo); also available, but not in standard are: Modula-2, Modula-3, Pascal, PL/I, D, Mercury, VHDL; Linux, the BSDs, OS X, NeXTSTEP, Windows and BeOS, among others
+Local C compiler [C] [Linux, SPARC, MIPS]
+The LLVM Compiler Infrastructure which is also frequently used for research
+Portable C Compiler [C] [Unix-like]
+Open Watcom [C, C++, and Fortran] [Windows and OS/2, Linux/FreeBSD WIP]
+TenDRA [C/C++] [Unix-like]
+Tiny C Compiler [C] [Linux, Windows]
+Open64, supported by AMD on Linux.
+XPL PL/I dialect (several systems)
+
+## Research compilers
+
+Research compilers are mostly not robust or complete enough to handle real, large applications. They are used mostly for fast prototyping new language features and new optimizations in research areas.
+
+Open64: A popular research compiler. Open64 merges the open source changes from the PathScale compiler mentioned.
+ROSE: an open source compiler framework to generate source-to-source analyzers and translators for C/C++ and Fortran, developed at Lawrence Livermore National Laboratory
+MILEPOST GCC: interactive plugin-based open-source research compiler that combines the strength of GCC and the flexibility of the common Interactive Compilation Interface that transforms production compilers into interactive research toolsets.
+Interactive Compilation Interface - a plugin system with high-level API to transform production-quality compilers such as GCC into powerful and stable research infrastructure while avoiding developing new research compilers from scratch
+Phoenix optimization and analysis framework by Microsoft
+Edison Design Group: provides production-quality front end compilers for C, C++, and Java (a number of the compilers listed on this page use front end source code from Edison Design Group). Additionally, Edison Design Group makes their proprietary software available for research uses.
 
