@@ -106,7 +106,7 @@ tags: programming compiler interpreter cpp
 - **Ch**: SoftIntegration, Inc	OS X, FreeBSD, Linux, Solaris, HP-UX, AIX, Qnxware
 - **Clang**: LLVM Project	UoI/NCSA
 - **CoderStudio**: Manosware
-- **CompCert**: INRIAware or GPL
+- **CompCert**: INRIAware
 - **Digital Mars**: Digital Mars
 - **Digital Research C**: Digital Research	CP/M, DOS
 - **Edison Design Group**: Edison Design Group
@@ -172,27 +172,27 @@ tags: programming compiler interpreter cpp
 - **EKOPath(pathCC)**: PathScale	Mixed
 - **GCC (g++)**: GNU Project	MinGW, MSYS2,
 - **Cygwin, Windows Subsystem**v3	QtCreator, Kdevelop, Eclipse,
-- **NetBeans, Code::Blocks, Geany[v] 
+- **NetBeans, Code::Blocks, Geany 
 - HP aC++ (aCC)**: Hewlett-Packard	HP-UX
-- **IAR C/C++ Compilers (icc***)	IAR Systems	⟨Yes⟩	IAR Embedded Workbench
+- **IAR C/C++ Compilers (icc***)	IAR Systems⟩	IAR Embedded Workbench
 - **Intel C++ Compiler (icc)**: Intel	Linux, macOS, FreeBSD; ⟨Android (x86)⟩ (Freeware)	Visual Studio, Eclipse, Xcode 
-- **KAI C++ (KCC)**: Kuck & Associates, Inc.
-⟨subsumed by Intel⟩	TOPS-20, Digital Unix, HP-UX, Linux (x86),
+- **KAI C++ (KCC)**: Kuck & Associates, Inc. 
+- **TOPS-20**: Digital Unix, HP-UX, Linux (x86)
 - **Irix 5.3 & 6.x, Solaris 2.x, UNICOS 
 - Microtec C/C++ (mcc)**: Mentor ⟨Siemens⟩	EDGE Developer Suite
-- **EDGE C/C++[vi]**: Mentor ⟨Siemens⟩	EDGE Developer Suite
-- **Open64 (openCC)**: HP, AMD, Tsinghua University	Modified GPLv2[v][vii] 
+- **EDGE C/C++**: Mentor ⟨Siemens⟩	EDGE Developer Suite
+- **Open64 (openCC)**: HP, AMD, Tsinghua University
 - **PGC++ (pgc++)**: PGI ⟨Nvidia⟩	Unsupported	Linux, macOS	Eclipse, Xcode, Visual Studio 
 - **ProDev WorkShop**: Silicon Graphics
-- **RealView Compilation Tools (armcc)**: Keil ⟨Arm⟩	⟨Yes⟩	RealView Development Suite 
-- **Arm Compiler (armcc)**: Keil ⟨Arm⟩	⟨Yes⟩	μVision, DS-5 
-- **Arm Compiler (armclang)**: Keil ⟨Arm⟩ (LLVM)	⟨Yes⟩	μVision, DS-5 
+- **RealView Compilation Tools (armcc)**: Keil ⟨Arm⟩⟩	RealView Development Suite 
+- **Arm Compiler (armcc)**: Keil ⟨Arm⟩⟩	μVision, DS-5 
+- **Arm Compiler (armclang)**: Keil ⟨Arm⟩ (LLVM)⟩	μVision, DS-5 
 - **Salford C++ Compiler**: Silverfrost
 - **SAS/C C++**: SAS Institute	Windows NT/95	AIX, Solaris/SunOS, Linux	IBM mainframe, DOS
 - **SCORE C++ (tpp)**: DDC-I
 - **Oracle C++ Compiler (CC)**: Oracle	Linux, Solaris (Freeware)	Oracle Developer Studio, NetBeans
 - **TenDRA (tcc)**: TenDRA Project
-- **VectorC**: Codeplay	⟨PS2⟩, ⟨PS3⟩, etc.	Visual Studio, CodeWarrior	Some
+- **VectorC**: Codeplay	⟨PS2⟩, ⟨PS3	Visual Studio, CodeWarrior	Some
 - **Visual C++ (cl)**: Microsoft	Linux, macOS; ⟨Android⟩, ⟨iOS⟩	Visual Studio
 - **VisualAge C++ (vac++)**: IBM	AIX, Linux	OS/2, OS/400, z/OS, VM	VisualAge
 - **XL C/C++ (xlc++)**: IBM	Linux (POWER), AIX	z/OS, VM	Eclipse
@@ -205,7 +205,7 @@ tags: programming compiler interpreter cpp
 - **Mono**: Xamarinv2
 - **Portable.NET**: Dot Gnu Project
 - **SharpDevelop**: IC#Code Team
-- **Roslyn**: .NET Foundation	Apache 2.
+- **Roslyn**: .NET Foundation
 
 
 ## کامپایلر های COBOL
@@ -392,8 +392,8 @@ tags: programming compiler interpreter cpp
 
 ## مفسر های Tcl
 - **ActiveTcl**: ActiveState
-- **Tclsh**: MKS and many others and/or free
-- **Wish**: MKS and many others and/or free
+- **Tclsh**: MKS
+- **Wish**: MKS
 
 ## مفسر های VMS
 
@@ -428,7 +428,7 @@ tags: programming compiler interpreter cpp
 - **TenDRA** [C/C++] [Unix-like]
 - **Tiny C Compiler** [C] [Linux, Windows]
 - **Open64** supported by AMD on Linux.
-- **XPL PL/I** dialect (several systems)
+- **XPL PL/I** dialect
 
 ## کامپایلر های تحقیقاتی
 
